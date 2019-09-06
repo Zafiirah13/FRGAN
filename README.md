@@ -16,12 +16,12 @@ Training FRI sources
     
 Training FRII sources
 
-    python main.py --dataset new_FRII_augment —input_height=150 —output_height=150 --c_dim=1 —batch_size=4 --epoch=1152 --input_fname_pattern=‘*.fits’
+    python main.py --dataset new_FRII_augment —input_height=150 —output_height=150 --c_dim=1 —batch_size=4 --epoch=100 --input_fname_pattern=‘*.fits’
     
     
 Generate FRI examples after training the `DCGAN` network
 
-    python main.py --model_dir=new_FRI_augment_100_150_150_1152 --input_height=150 --output_height=150 --c_dim=1 --batch_size=1 --nplt=10 --voption=6 --sample_dir=samples/sim_fits_NewFRI_augment/
+    python main.py --model_dir=new_FRI_augment_100_150_150_1152 --input_height=100 --output_height=150 --c_dim=1 --batch_size=1 --nplt=10 --voption=6 --sample_dir=samples/sim_fits_NewFRI_augment/
     
 Generate FRII example after training the `DCGAN` network
 
