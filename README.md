@@ -7,6 +7,10 @@ FRI and FRII sources are rare candidates. To be able to apply convolutional neur
 ![alt tag](DCGAN_FRI.png)
 ![alt tag](DCGAN_FRII.png)
 
+A Summary of MSc Project is as follows:
+![alt tag](Summary.png)
+
+
 Usage
 ---
 
