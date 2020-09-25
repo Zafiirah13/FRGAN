@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4049956.svg)](https://doi.org/10.5281/zenodo.4049956)
+[![issues](https://img.shields.io/github/issues/Zafiirah13/FRGAN)](https://github.com/Zafiirah13/FRGAN/issues)
+[![forks](https://img.shields.io/github/forks/Zafiirah13/FRGAN)](https://github.com/Zafiirah13/FRGAN/network/members)
+[![stars](https://img.shields.io/github/stars/Zafiirah13/FRGAN)](https://github.com/Zafiirah13/FRGAN/stargazers)
 # FRI-FRII-Simulation-using-DCGAN
 
 Implementaion of Deep Convolutional Generative Adversarial Network using [DCGAN in Tensorflow](https://github.com/carpedm20/DCGAN-tensorflow) code. Detailed information can be found in this [paper](https://arxiv.org/abs/1511.06434). 
